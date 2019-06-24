@@ -1,0 +1,8 @@
+E:\escuela\programacion\trabajo en c#\CFP\Datos\bin\Debug\Datos.dll
+E:\escuela\programacion\trabajo en c#\CFP\Datos\bin\Debug\Datos.pdb
+E:\escuela\programacion\trabajo en c#\CFP\Datos\bin\Debug\Entidades.dll
+E:\escuela\programacion\trabajo en c#\CFP\Datos\bin\Debug\MySql.Data.dll
+E:\escuela\programacion\trabajo en c#\CFP\Datos\bin\Debug\Entidades.pdb
+E:\escuela\programacion\trabajo en c#\CFP\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\escuela\programacion\trabajo en c#\CFP\Datos\obj\Debug\Datos.dll
+E:\escuela\programacion\trabajo en c#\CFP\Datos\obj\Debug\Datos.pdb

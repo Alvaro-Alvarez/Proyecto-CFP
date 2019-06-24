@@ -1,0 +1,10 @@
+E:\escuela\programacion\trabajo en c#\Proyecto Luna\Entidades\bin\Debug\Entidades.dll
+E:\escuela\programacion\trabajo en c#\Proyecto Luna\Entidades\bin\Debug\Entidades.pdb
+E:\escuela\programacion\trabajo en c#\Proyecto Luna\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\escuela\programacion\trabajo en c#\Proyecto Luna\Entidades\obj\Debug\Entidades.dll
+E:\escuela\programacion\trabajo en c#\Proyecto Luna\Entidades\obj\Debug\Entidades.pdb
+E:\escuela\programacion\trabajo en c#\CFP\Entidades\bin\Debug\Entidades.dll
+E:\escuela\programacion\trabajo en c#\CFP\Entidades\bin\Debug\Entidades.pdb
+E:\escuela\programacion\trabajo en c#\CFP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\escuela\programacion\trabajo en c#\CFP\Entidades\obj\Debug\Entidades.dll
+E:\escuela\programacion\trabajo en c#\CFP\Entidades\obj\Debug\Entidades.pdb
